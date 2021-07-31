@@ -1,2 +1,2 @@
 # EVM-Windows-App_1-2
-Windows application for EVM with voters' database.
+Java based Windows application for EVM with voters' database.
